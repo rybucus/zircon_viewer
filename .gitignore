@@ -78,3 +78,4 @@ DerivedData/
 
 .DS_Store
 Thumbs.db
+CMakeLists.txt.user
