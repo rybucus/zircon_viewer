@@ -11,6 +11,8 @@
 #include <utils/files.hxx>
 #include <utils/logging.hxx>
 
+#include <core/i_core.hxx>
+
 namespace zircon::app
 {
 

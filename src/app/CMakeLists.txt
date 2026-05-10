@@ -2,8 +2,6 @@ add_executable(zircon
     ../../include/app/i_application.hxx
     ../../include/app/i_module.hxx
     ../../include/app/frame_stage.hxx
-
-
     ../../include/app/c_application.hxx
     ../../include/app/application_config.hxx
     c_application.cxx

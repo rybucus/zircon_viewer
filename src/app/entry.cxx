@@ -2,6 +2,7 @@
 #include <string>
 
 #include <app/c_application.hxx>
+#include <utils/logging.hxx>.hxx>
 
 int main( int argc, char* argv[ ] )
 {
